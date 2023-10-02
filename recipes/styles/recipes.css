@@ -1,0 +1,18 @@
+html {
+    background-color: rgb(17 24 39);
+}
+
+h1, h2, h3 {
+    text-align: center;
+    color: ghostwhite;
+    font-family: "Brush Script MT", sans-serif;
+}
+
+p, li {
+    color: wheat;
+}
+
+.source, a {
+    color: cornflowerblue;
+}
+
