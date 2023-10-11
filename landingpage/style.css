@@ -176,3 +176,21 @@ img {
     border: 6px cornflowerblue solid;
     border-radius: 12px;
 }
+
+/* Quote */
+.quote {
+    padding: 128px;
+}
+
+.quote-text {
+    font-weight: lighter;
+}
+
+.quote-author {
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    color: #1F2937;
+    text-align: end;
+    margin-top: 12px;
+}
